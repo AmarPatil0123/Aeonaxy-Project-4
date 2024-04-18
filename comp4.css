@@ -194,6 +194,10 @@ ul li a {
     text-wrap: wrap;
 }
 
+ul li a:hover{
+    text-decoration: underline;
+}
+
 .second-part {
     display: flex;
     justify-content: space-between;
